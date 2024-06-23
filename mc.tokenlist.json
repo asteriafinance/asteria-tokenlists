@@ -1,0 +1,31 @@
+{
+  "name": "Asteria Finance Default",
+  "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0x0000000000000000000000000000000000000000/logo.png",
+  "keywords": ["blast"],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 81457,
+      "address": "0x4300000000000000000000000000000000000004",
+      "decimals": 18,
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "tags": ["Top"],
+      "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0x4300000000000000000000000000000000000004/logo.png"
+    },
+    {
+      "chainId": 81457,
+      "address": "0x4300000000000000000000000000000000000003",
+      "decimals": 18,
+      "name": "USDB",
+      "symbol": "USDB",
+      "tags": ["Stablecoins", "Top"],
+      "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0x4300000000000000000000000000000000000003/logo.png"
+    }
+  ],
+  "timestamp": "2024-02-01T00:00:00+00:00"
+}
