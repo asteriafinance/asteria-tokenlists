@@ -25,6 +25,42 @@
       "symbol": "USDB",
       "tags": ["Stablecoins", "Top"],
       "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0x4300000000000000000000000000000000000003/logo.png"
+    },
+    {
+      "chainId": 534351,
+      "address": "0x6226d2488111787AdAfc7795bfD7a2f131BC3F3f",
+      "decimals": 18,
+      "name": "USDC Test",
+      "symbol": "USDC",
+      "tags": ["Stablecoins", "Top"],
+      "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0x6226d2488111787AdAfc7795bfD7a2f131BC3F3f/logo.png"
+    },
+    {
+      "chainId": 534351,
+      "address": "0x152CaD2BD30400e3a95785a78B63EADA30f80c91",
+      "decimals": 18,
+      "name": "USDT Test",
+      "symbol": "USDT",
+      "tags": ["Stablecoins", "Top"],
+      "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0x152CaD2BD30400e3a95785a78B63EADA30f80c91/logo.png"
+    },
+    {
+      "chainId": 534351,
+      "address": "0x5300000000000000000000000000000000000004",
+      "decimals": 18,
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "tags": ["Top"],
+      "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0x5300000000000000000000000000000000000004/logo.png"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x5300000000000000000000000000000000000004",
+      "decimals": 18,
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "tags": ["Top"],
+      "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0x5300000000000000000000000000000000000004/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
