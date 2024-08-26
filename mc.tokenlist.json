@@ -1,7 +1,7 @@
 {
   "name": "Asteria Finance Default",
   "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0x0000000000000000000000000000000000000000/logo.png",
-  "keywords": ["blast"],
+  "keywords": ["scroll"],
   "version": {
     "major": 1,
     "minor": 0,
@@ -28,21 +28,21 @@
     },
     {
       "chainId": 534351,
-      "address": "0x6226d2488111787AdAfc7795bfD7a2f131BC3F3f",
-      "decimals": 18,
+      "address": "0x0C7f4B7A9F2e257Ad21c897B1727E8505315744c",
+      "decimals": 6,
       "name": "USDC Test",
       "symbol": "USDC",
       "tags": ["Stablecoins", "Top"],
-      "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0x6226d2488111787AdAfc7795bfD7a2f131BC3F3f/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0x0C7f4B7A9F2e257Ad21c897B1727E8505315744c/logo.png"
     },
     {
       "chainId": 534351,
-      "address": "0x152CaD2BD30400e3a95785a78B63EADA30f80c91",
-      "decimals": 18,
+      "address": "0x7e8AF533257FB9a42ADeF349B016b01C650E2b76",
+      "decimals": 6,
       "name": "USDT Test",
       "symbol": "USDT",
       "tags": ["Stablecoins", "Top"],
-      "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0x152CaD2BD30400e3a95785a78B63EADA30f80c91/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0x7e8AF533257FB9a42ADeF349B016b01C650E2b76/logo.png"
     },
     {
       "chainId": 534351,
@@ -61,6 +61,51 @@
       "symbol": "WETH",
       "tags": ["Top"],
       "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0x5300000000000000000000000000000000000004/logo.png"
+    },
+    {
+      "chainId": 534351,
+      "address": "0xA4b98032BB806b5c523f7Ab31490Fbc02C54DBEf",
+      "decimals": 18,
+      "name": "DAI Test",
+      "symbol": "DAI",
+      "tags": ["Stablecoins", "Top"],
+      "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0xA4b98032BB806b5c523f7Ab31490Fbc02C54DBEf/logo.png"
+    },
+    {
+      "chainId": 534351,
+      "address": "0xb195e899ccD30ABF4527eF15599ce96072BA1340",
+      "decimals": 18,
+      "name": "STONE Test",
+      "symbol": "STONE",
+      "tags": ["DeFi", "Top"],
+      "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0xb195e899ccD30ABF4527eF15599ce96072BA1340/logo.png"
+    },
+    {
+      "chainId": 534351,
+      "address": "0x49d562AF86Cf3F9cf6A59879bC7B5149008F2eAb",
+      "decimals": 8,
+      "name": "wBTC Test",
+      "symbol": "wBTC",
+      "tags": ["Top"],
+      "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0x49d562AF86Cf3F9cf6A59879bC7B5149008F2eAb/logo.png"
+    },
+    {
+      "chainId": 534351,
+      "address": "0xc375F5c36d2C699f4ecB344574EC690f901f4360",
+      "decimals": 18,
+      "name": "wrsETH Test",
+      "symbol": "wrsETH",
+      "tags": ["DeFi", "Top"],
+      "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0xc375F5c36d2C699f4ecB344574EC690f901f4360/logo.png"
+    },
+    {
+      "chainId": 534351,
+      "address": "0x50c2635Ee7A182C5028b06d9F77359B86648E15A",
+      "decimals": 18,
+      "name": "wstETH Test",
+      "symbol": "wstETH",
+      "tags": ["DeFi", "Top"],
+      "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0x50c2635Ee7A182C5028b06d9F77359B86648E15A/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
