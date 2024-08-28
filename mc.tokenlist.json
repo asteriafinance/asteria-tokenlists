@@ -28,6 +28,15 @@
     },
     {
       "chainId": 534351,
+      "address": "0x5300000000000000000000000000000000000004",
+      "decimals": 18,
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "tags": ["Top"],
+      "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0x5300000000000000000000000000000000000004/logo.png"
+    },
+    {
+      "chainId": 534351,
       "address": "0x0C7f4B7A9F2e257Ad21c897B1727E8505315744c",
       "decimals": 6,
       "name": "USDC Test",
@@ -43,24 +52,6 @@
       "symbol": "USDT",
       "tags": ["Stablecoins", "Top"],
       "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0x7e8AF533257FB9a42ADeF349B016b01C650E2b76/logo.png"
-    },
-    {
-      "chainId": 534351,
-      "address": "0x5300000000000000000000000000000000000004",
-      "decimals": 18,
-      "name": "Wrapped ETH",
-      "symbol": "WETH",
-      "tags": ["Top"],
-      "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0x5300000000000000000000000000000000000004/logo.png"
-    },
-    {
-      "chainId": 534352,
-      "address": "0x5300000000000000000000000000000000000004",
-      "decimals": 18,
-      "name": "Wrapped ETH",
-      "symbol": "WETH",
-      "tags": ["Top"],
-      "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0x5300000000000000000000000000000000000004/logo.png"
     },
     {
       "chainId": 534351,
@@ -106,6 +97,78 @@
       "symbol": "wstETH",
       "tags": ["DeFi", "Top"],
       "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0x50c2635Ee7A182C5028b06d9F77359B86648E15A/logo.png"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x5300000000000000000000000000000000000004",
+      "decimals": 18,
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "tags": ["Top"],
+      "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0x5300000000000000000000000000000000000004/logo.png"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
+      "decimals": 6,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "tags": ["Stablecoins", "Top"],
+      "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4/logo.png"
+    },
+    {
+      "chainId": 534352,
+      "address": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df",
+      "decimals": 6,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "tags": ["Stablecoins", "Top"],
+      "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df/logo.png"
+    },
+    {
+      "chainId": 534352,
+      "address": "0xcA77eB3fEFe3725Dc33bccB54eDEFc3D9f764f97",
+      "decimals": 18,
+      "name": "DAI Stablecoin",
+      "symbol": "DAI",
+      "tags": ["Stablecoins", "Top"],
+      "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0xcA77eB3fEFe3725Dc33bccB54eDEFc3D9f764f97/logo.png"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x80137510979822322193FC997d400D5A6C747bf7",
+      "decimals": 18,
+      "name": "StakeStone Ether",
+      "symbol": "STONE",
+      "tags": ["DeFi", "Top"],
+      "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0x80137510979822322193FC997d400D5A6C747bf7/logo.png"
+    },
+    {
+      "chainId": 534352,
+      "address": "0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1",
+      "decimals": 8,
+      "name": "Wrapped Bitcoin",
+      "symbol": "wBTC",
+      "tags": ["Top"],
+      "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1/logo.png"
+    },
+    {
+      "chainId": 534352,
+      "address": "0xa25b25548B4C98B0c7d3d27dcA5D5ca743d68b7F",
+      "decimals": 18,
+      "name": "rsETHWrapper",
+      "symbol": "wrsETH",
+      "tags": ["DeFi", "Top"],
+      "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0xa25b25548B4C98B0c7d3d27dcA5D5ca743d68b7F/logo.png"
+    },
+    {
+      "chainId": 534352,
+      "address": "0xf610A9dfB7C89644979b4A0f27063E9e7d7Cda32",
+      "decimals": 18,
+      "name": "Wrapped Staked Ether",
+      "symbol": "wstETH",
+      "tags": ["DeFi", "Top"],
+      "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0xf610A9dfB7C89644979b4A0f27063E9e7d7Cda32/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
