@@ -169,6 +169,15 @@
       "symbol": "wstETH",
       "tags": ["DeFi", "Top"],
       "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0xf610A9dfB7C89644979b4A0f27063E9e7d7Cda32/logo.png"
+    },
+    {
+      "chainId": 534352,
+      "address": "0xb65aD8d81d1E4Cb2975352338805AF6e39BA8Be8",
+      "decimals": 18,
+      "name": "Scrolly The Map",
+      "symbol": "SCROLLY",
+      "tags": ["DeFi"],
+      "logoURI": "https://raw.githubusercontent.com/asteriafinance/asteria-tokenlists/main/logos/0xb65aD8d81d1E4Cb2975352338805AF6e39BA8Be8/logo.png"
     }
   ],
   "timestamp": "2024-02-01T00:00:00+00:00"
